@@ -1,14 +1,6 @@
 # Proyecto 4: Hunting Vulnerabilities
 
-## Grupo 3
-
-**Sergio Guerrero Merlo**
-
-**Juan Manuel Cumbrera López**
-
-**Christian Romero Oliva**
-
-*1 De Abril de 2024*
+> *1 De Abril de 2024*
 
 ## Índice
 
@@ -771,3 +763,9 @@ La autenticación multifactorial es un método de verificación de identidad que
 
 Antonio López INCIBE. (2023). CVSS v3.0. 
 Recuperado el 1 de Abril 2024, de https://www.incibe.es/incibe-cert/blog/cvss3-0
+
+## Grupo 3
+
+- **Sergio Guerrero Merlo**
+- **Juan Manuel Cumbrera López**
+- **Christian Romero Oliva**
