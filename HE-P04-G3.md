@@ -708,7 +708,11 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ## Conclusiones y Recomendaciones
 
-En base a los resultados obtenidos mediante el escaneo superficial básico de puertos comunes, podemos determinar que los dos 
+En base a los resultados obtenidos mediante el escaneo superficial básico de puertos comunes, podemos determinar que los dos servidores analizados tienen un nivel de riesgo crítico, respaldado por la métrica CVSS v3. El escáner más superficial ha encontrado vulnerabilidades muy graves con tan solo revisar de manera *superficial* los servidores y sin ni siquiera realizar un test manual. 
+
+Muchas de las vulnerabilidades encontradas son corregibles mediante la aplicación de parches y supervisión adecuadas.
+
+Nuestra recomendación es proseguir la investigación de los mismos y efectuar pruebas de penetración mucho más detalladas, con mayor alcance y profundidad, para seguir aumentando el nivel de conocmiento acerca del riesgo al que están sometidos los dos servidores.
 
 ## Glosario de Términos
 
