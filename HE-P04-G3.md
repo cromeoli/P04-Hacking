@@ -81,9 +81,9 @@ CVSS más alto obtenido: **10**
 
 ##### Apache Tomcat AJP Connector Request Injection (Ghostcat)
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Critical | 9.8    | 9.0    | 134862 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Critical | 9.8    | 134862 |
 
 **Descripción:** Esta vulnerabilidad permite a un atacante remoto leer y escribir archivos en un servidor afectado mediante solicitudes especialmente diseñadas a través del conector AJP.
 
@@ -93,9 +93,9 @@ CVSS más alto obtenido: **10**
 
 ##### Elasticsearch ESA-2015-06
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Critical | 9.8    | 6.7    | 119499 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Critical | 9.8    | 119499 |
 
 **Descripción:** Esta vulnerabilidad permite a un atacante remoto ejecutar código arbitrario en el sistema afectado a través de una explotación de tipo escalamiento de privilegios.
 
@@ -105,9 +105,9 @@ CVSS más alto obtenido: **10**
 
 ##### Elasticsearch Transport Protocol Unspecified Remote Code Execution
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Critical | 9.8    | 6.7    | 105752 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Critical | 9.8    | 105752 |
 
 **Descripción:** Esta vulnerabilidad permite a un atacante remoto ejecutar código arbitrario en el sistema afectado a través de una explotación de tipo ejecución remota de código.
 
@@ -117,9 +117,9 @@ CVSS más alto obtenido: **10**
 
 ##### ManageEngine Desktop Central < 10 Build 10.0.533 Integer Overflow
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Critical | 9.8    | 5.9    | 139377 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Critical | 9.8    | 139377 |
 
 **Descripción:** Esta vulnerabilidad permite a un atacante remoto ejecutar código arbitrario en el sistema afectado a través de una explotación de desbordamiento de entero.
 
@@ -129,9 +129,9 @@ CVSS más alto obtenido: **10**
 
 ##### Microsoft RDP RCE (CVE-2019-0708) (BlueKeep) (uncredentialed check)
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Critical | 9.8    | 9.7    | 125313 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Critical | 9.8    | 125313 |
 
 **Descripción:** Esta vulnerabilidad permite a un atacante remoto ejecutar código arbitrario en el sistema afectado a través de una explotación de tipo ejecución remota de código.
 
@@ -141,9 +141,9 @@ CVSS más alto obtenido: **10**
 
 ##### Unsupported Windows OS (remote)
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Critical | 10.0   | -      | 108797 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Critical | 10.0   | 108797 |
 
 **Descripción:** Esta vulnerabilidad indica que el sistema operativo Windows utilizado no tiene soporte, lo que puede dejar el sistema vulnerable a varias amenazas de seguridad.
 
@@ -153,34 +153,33 @@ CVSS más alto obtenido: **10**
 
 ##### MS11-030: Vulnerability in DNS Resolution Could Allow Remote Code Execution (2509553) (remote check)
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Critical | 10.0   | 7.3    | 53514  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Critical | 10.0   | 53514  |
 
 **Descripción:** Esta vulnerabilidad permite a un atacante remoto ejecutar código arbitrario en el sistema afectado a través de una explotación de tipo ejecución remota de código.
 
 **Solución:** Aplicar el parche de seguridad proporcionado por Microsoft.
 
-- - -
+---
 
 ##### ManageEngine Desktop Central 8 / 9 < Build 91100 Multiple RCE
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Critical | 10.0*  | 7.3    | 90192  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Critical | 10.0*  | 90192  |
 
 **Descripción:** Esta vulnerabilidad permite a un atacante remoto ejecutar código arbitrario en el sistema afectado a través de una explotación de tipo ejecución remota de código.
 
 **Solución:** Aplicar el parche de seguridad proporcionado por ManageEngine.
 
-
 #### Nivel Alto
 
 ##### MS14-066: Vulnerability in Schannel Could Allow Remote Code Execution (2992611) (uncredentialed check)
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| High     | 8.8    | 7.4    | 79638  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| High     | 8.8    | 79638  |
 
 **Descripción:** Esta vulnerabilidad permite a un atacante remoto ejecutar código arbitrario en el sistema afectado a través de una explotación de tipo ejecución remota de código.
 
@@ -190,9 +189,9 @@ CVSS más alto obtenido: **10**
 
 ##### ManageEngine Desktop Central 10 < Build 100282 Remote Privilege Escalation
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| High     | 8.8    | 6.7    | 117639 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| High     | 8.8    | 117639 |
 
 **Descripción:** Esta vulnerabilidad permite a un atacante escalar privilegios en el sistema afectado.
 
@@ -202,9 +201,9 @@ CVSS más alto obtenido: **10**
 
 ##### MS17-010: Security Update for Microsoft Windows SMB Server (4013389) (ETERNALBLUE) (ETERNALCHAMPION) (ETERNALROMANCE) (ETERNALSYNERGY) (WannaCry) (EternalRocks) (Petya) (uncredentialed check)
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| High     | 8.1    | 9.7    | 97833  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| High     | 8.1    | 97833  |
 
 **Descripción:** Esta vulnerabilidad permite a un atacante remoto ejecutar código arbitrario en el sistema afectado a través de una explotación de tipo ejecución remota de código.
 
@@ -214,9 +213,9 @@ CVSS más alto obtenido: **10**
 
 ##### Oracle GlassFish Server Path Traversal
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| High     | 7.5    | 4.4    | 110192 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| High     | 7.5    | 110192 |
 
 **Descripción:** Esta vulnerabilidad permite a un atacante remoto acceder a archivos y directorios sensibles en el sistema afectado.
 
@@ -226,9 +225,9 @@ CVSS más alto obtenido: **10**
 
 ##### Oracle GlassFish Server URL normalization Denial of Service
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| High     | 7.5    | -      | 110612 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| High     | 7.5    | 110612 |
 
 **Descripción:** Esta vulnerabilidad permite a un atacante remoto realizar un ataque de denegación de servicio en el sistema afectado mediante la manipulación de URLs.
 
@@ -238,9 +237,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSL Certificate Signed Using Weak Hashing Algorithm
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| High     | 7.5    | 4.9    | 35291  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| High     | 7.5    | 35291  |
 
 **Descripción:** Esta vulnerabilidad indica que el certificado SSL está firmado utilizando un algoritmo de hash débil, lo que puede comprometer la integridad del certificado.
 
@@ -250,35 +249,33 @@ CVSS más alto obtenido: **10**
 
 ##### SSL Medium Strength Cipher Suites Supported (SWEET32)
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| High     | 7.5    | 6.1    | 42873  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| High     | 7.5    | 42873  |
 
 **Descripción:** Esta vulnerabilidad indica que el servidor admite suites de cifrado de longitud media, lo que puede exponer la comunicación a ataques criptográficos.
 
 **Solución:** Deshabilitar las suites de cifrado de longitud media y utilizar cifrados más fuertes.
 
-- - -
+---
 
 ##### MS12-020: Vulnerabilities in Remote Desktop Could Allow Remote Code Execution (2671387) (uncredentialed check)
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| High     | 9.3*   | 9.7    | 58435  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| High     | 9.3*   | 58435  |
 
 **Descripción:** Esta vulnerabilidad permite a un atacante remoto ejecutar código arbitrario en el sistema afectado a través de una explotación de tipo ejecución remota de código.
 
 **Solución:** Aplicar el parche de seguridad proporcionado por Microsoft.
 
-- - -
-
 #### Nivel Medio
 
 ##### MS16-047: Security Update for SAM and LSAD Remote Protocols (3148527) (Badlock) (uncredentialed check)
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 6.8    | 6.0    | 90510  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 6.8    | 90510  |
 
 **Descripción:** Esta vulnerabilidad afecta a los protocolos remotos SAM y LSAD y permite a un atacante realizar ataques de tipo man-in-the-middle en la comunicación.
 
@@ -288,9 +285,9 @@ CVSS más alto obtenido: **10**
 
 ##### Remote Desktop Protocol Server Man-in-the-Middle Weakness
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 6.5    | 2.5    | 18405  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 6.5    | 18405  |
 
 **Descripción:** Esta vulnerabilidad indica una debilidad en el protocolo Remote Desktop Protocol (RDP) que podría ser explotada por un atacante para realizar ataques de tipo man-in-the-middle.
 
@@ -300,9 +297,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSL Certificate Cannot Be Trusted
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 6.5    | -      | 51192  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 6.5    | 51192  |
 
 **Descripción:** Esta vulnerabilidad indica que el certificado SSL del sitio web no es confiable, lo que puede indicar un problema de certificación o una autoridad de certificación no confiable.
 
@@ -312,9 +309,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSL Self-Signed Certificate
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 6.5    | -      | 57582  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 6.5    | 57582  |
 
 **Descripción:** Esta vulnerabilidad indica que el certificado SSL del sitio web es auto-firmado, lo que puede indicar un problema de certificación o falta de confiabilidad en el certificado.
 
@@ -324,9 +321,9 @@ CVSS más alto obtenido: **10**
 
 ##### TLS Version 1.0 Protocol Detection
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 6.5    | -      | 104743 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 6.5    | 104743 |
 
 **Descripción:** Esta vulnerabilidad indica la detección de la versión 1.0 del protocolo TLS, que es conocida por tener vulnerabilidades de seguridad.
 
@@ -336,9 +333,9 @@ CVSS más alto obtenido: **10**
 
 ##### TLS Version 1.1 Protocol Deprecated
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 6.5    | -      | 157288 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 6.5    | 157288 |
 
 **Descripción:** Esta vulnerabilidad indica que la versión 1.1 del protocolo TLS está marcada como obsoleta, lo que puede exponer el sistema a vulnerabilidades conocidas.
 
@@ -348,9 +345,9 @@ CVSS más alto obtenido: **10**
 
 ##### ManageEngine Desktop Central 9 < Build 92027 Multiple Vulnerabilities
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 6.1    | 3.0    | 108752 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 6.1    | 108752 |
 
 **Descripción:** Esta vulnerabilidad afecta a versiones específicas de ManageEngine Desktop Central y permite a un atacante llevar a cabo diversas acciones maliciosas.
 
@@ -360,9 +357,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 5.9    | 6.7    | 187315 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 5.9    | 187315 |
 
 **Descripción:** Esta vulnerabilidad permite a un atacante truncar el prefijo SSH Terrapin, lo que puede resultar en una reducción de la seguridad.
 
@@ -372,9 +369,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSL Anonymous Cipher Suites Supported
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 5.9    | 3.6    | 31705  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 5.9    | 31705  |
 
 **Descripción:** Esta vulnerabilidad indica que el servidor admite suites de cifrado anónimas, lo que puede exponer la comunicación a ataques criptográficos.
 
@@ -384,9 +381,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSL RC4 Cipher Suites Supported (Bar Mitzvah)
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 5.9    | 3.6    | 65821  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 5.9    | 65821  |
 
 **Descripción:** Esta vulnerabilidad indica que el servidor admite suites de cifrado RC4, que son conocidas por tener vulnerabilidades de seguridad.
 
@@ -396,9 +393,9 @@ CVSS más alto obtenido: **10**
 
 ##### Elasticsearch Unrestricted Access Information Disclosure
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 5.3    | -      | 101025 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 5.3    | 101025 |
 
 **Descripción:** Esta vulnerabilidad indica que Elasticsearch permite el acceso no restringido, lo que puede exponer información sensible.
 
@@ -408,9 +405,9 @@ CVSS más alto obtenido: **10**
 
 ##### SMB Signing not required
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 5.3    | -      | 57608  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 5.3    | 57608  |
 
 **Descripción:** Esta vulnerabilidad indica que SMB Signing no está requerido, lo que puede exponer el sistema a ataques de suplantación de identidad.
 
@@ -420,9 +417,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSL Certificate Expiry
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 5.3    | -      | 15901  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 5.3    | 15901  |
 
 **Descripción:** Esta vulnerabilidad indica que el certificado SSL del sitio web está próximo a expirar, lo que puede resultar en una interrupción del servicio.
 
@@ -432,9 +429,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSL Certificate with Wrong Hostname
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 5.3    | -      | 45411  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 5.3    | 45411  |
 
 **Descripción:** Esta vulnerabilidad indica que el certificado SSL del sitio web tiene un nombre de host incorrecto, lo que puede indicar un problema de configuración o una posible suplantación de identidad.
 
@@ -444,9 +441,9 @@ CVSS más alto obtenido: **10**
 
 ##### Terminal Services Doesn't Use Network Level Authentication (NLA) Only
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 4.0    | -      | 58453  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 4.0    | 58453  |
 
 **Descripción:** Esta vulnerabilidad indica que Terminal Services no utiliza solo la Autenticación de Nivel de Red (NLA), lo que puede exponer el sistema a ataques de fuerza bruta.
 
@@ -456,9 +453,9 @@ CVSS más alto obtenido: **10**
 
 ##### Elasticsearch 'source' Parameter RCE
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 6.8*   | 9.7    | 76572  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 6.8*   | 76572  |
 
 **Descripción:** Esta vulnerabilidad afecta a Elasticsearch y permite a un atacante ejecutar código arbitrario a través de un parámetro 'source'.
 
@@ -468,9 +465,9 @@ CVSS más alto obtenido: **10**
 
 ##### Terminal Services Encryption Level is Medium or Low
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 4.3*   | -      | 57690  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 4.3*   | 57690  |
 
 **Descripción:** Esta vulnerabilidad indica que el nivel de cifrado de Terminal Services es medio o bajo, lo que puede exponer la comunicación a ataques criptográficos.
 
@@ -481,9 +478,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSL/TLS Diffie-Hellman Modulus <= 1024 Bits (Logjam)
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Low      | 3.7    | 4.5    | 83875  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Low      | 3.7    | 83875  |
 
 **Descripción:** Esta vulnerabilidad indica que el tamaño del módulo Diffie-Hellman en el intercambio de claves SSL/TLS es menor o igual a 1024 bits, lo que puede permitir a un atacante realizar un ataque de fuerza bruta para descifrar la comunicación.
 
@@ -493,9 +490,9 @@ CVSS más alto obtenido: **10**
 
 ##### Terminal Services Encryption Level is not FIPS-140 Compliant
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Low      | 2.6*   | -      | 30218  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Low      | 2.6*   | 30218  |
 
 **Descripción:** Esta vulnerabilidad indica que el nivel de cifrado de Terminal Services no cumple con los estándares FIPS-140, lo que puede implicar una debilidad en la seguridad del sistema.
 
@@ -513,9 +510,9 @@ CVSS más alto obtenido: **10**
 
 ##### ProFTPD mod_copy Information Disclosure
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Critical | 9.8    | 7.4    | 84215  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Critical | 9.8    | 84215  |
 
 **Descripción:** Esta vulnerabilidad en el módulo ProFTPD mod_copy permite a un atacante obtener información sensible de forma no autorizada.
 
@@ -525,9 +522,9 @@ CVSS más alto obtenido: **10**
 
 ##### Drupal Coder Module Deserialization RCE
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Critical | 10.0*  | -      | 92626  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Critical | 10.0*  | 92626  |
 
 **Descripción:** Esta vulnerabilidad en el módulo Drupal Coder permite a un atacante ejecutar código arbitrario en el servidor afectado a través de una deserialización no segura de datos.
 
@@ -537,9 +534,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSL Medium Strength Cipher Suites Supported (SWEET32)
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| High     | 7.5    | 6.1    | 42873  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| High     | 7.5    | 42873  |
 
 **Descripción:** Esta vulnerabilidad indica que el servidor SSL/TLS admite suites de cifrado de fuerza media, lo que puede permitir a un atacante realizar ataques de cifrado de texto plano para comprometer la comunicación.
 
@@ -549,9 +546,9 @@ CVSS más alto obtenido: **10**
 
 ##### Drupal Database Abstraction API SQLi
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| High     | 7.5*   | 7.4    | 78515  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| High     | 7.5*   | 78515  |
 
 **Descripción:** Esta vulnerabilidad en la API de Abstracción de Base de Datos de Drupal permite a un atacante realizar ataques de inyección SQL (SQLi) y comprometer la integridad y confidencialidad de la base de datos.
 
@@ -562,9 +559,9 @@ CVSS más alto obtenido: **10**
 
 ##### IP Forwarding Enabled
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 6.5    | 4.9    | 50686  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 6.5    | 50686  |
 
 **Descripción:** Esta vulnerabilidad indica que el reenvío de IP está habilitado en el sistema, lo que puede permitir que un atacante realice ataques de reenvío de paquetes y redirija el tráfico de red a destinos no autorizados.
 
@@ -574,9 +571,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSL Certificate Cannot Be Trusted
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 6.5    | -      | 51192  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 6.5    | 51192  |
 
 **Descripción:** Esta vulnerabilidad indica que el certificado SSL no se puede considerar confiable, lo que puede indicar un certificado autofirmado o emitido por una autoridad de certificación no confiable.
 
@@ -586,9 +583,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSL Self-Signed Certificate
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 6.5    | -      | 57582  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 6.5    | 57582  |
 
 **Descripción:** Esta vulnerabilidad indica que el certificado SSL del servidor es autofirmado, lo que puede no ser confiable para los clientes que intentan establecer una conexión segura.
 
@@ -598,9 +595,9 @@ CVSS más alto obtenido: **10**
 
 ##### TLS Version 1.0 Protocol Detection
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 6.5    | -      | 104743 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 6.5    | 104743 |
 
 **Descripción:** Esta vulnerabilidad indica que el sistema es compatible con el protocolo TLS versión 1.0, que es conocido por tener vulnerabilidades de seguridad y debilidades criptográficas.
 
@@ -610,9 +607,9 @@ CVSS más alto obtenido: **10**
 
 ##### TLS Version 1.1 Protocol Deprecated
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 6.5    | -      | 157288 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 6.5    | 157288 |
 
 **Descripción:** Esta vulnerabilidad indica que el sistema está utilizando el protocolo TLS versión 1.1, que está marcado como obsoleto debido a vulnerabilidades de seguridad y debilidades criptográficas.
 
@@ -622,9 +619,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 5.9    | 6.7    | 187315 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 5.9    | 187315 |
 
 **Descripción:** Esta vulnerabilidad en SSH indica una debilidad en el manejo de los prefijos de Terrapin, lo que podría permitir a un atacante truncar los prefijos de SSH y evadir restricciones de seguridad.
 
@@ -634,9 +631,9 @@ CVSS más alto obtenido: **10**
 
 ##### Apache Multiviews Arbitrary Directory Listing
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 5.3    | 2.2    | 10704  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 5.3    | 10704  |
 
 **Descripción:** Esta vulnerabilidad indica que el servidor Apache está configurado para permitir listados de directorios arbitrarios, lo que podría exponer información sensible de los archivos en el servidor.
 
@@ -646,9 +643,9 @@ CVSS más alto obtenido: **10**
 
 ##### SMB Signing not required
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 5.3    | -      | 57608  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 5.3    | 57608  |
 
 **Descripción:** Esta vulnerabilidad indica que el servidor SMB no requiere la firma de mensajes (SMB Signing), lo que puede permitir a un atacante realizar ataques de manipulación de datos en la comunicación SMB.
 
@@ -658,9 +655,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSH Weak Algorithms Supported
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Medium   | 4.3*   | -      | 90317  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Medium   | 4.3*   | 90317  |
 
 **Descripción:** Esta vulnerabilidad indica que el servidor SSH admite algoritmos de cifrado débiles o desactualizados, lo que puede comprometer la seguridad de la comunicación SSH.
 
@@ -671,9 +668,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSH Server CBC Mode Ciphers Enabled
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Low      | 3.7    | 3.6    | 70658  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Low      | 3.7    | 70658  |
 
 **Descripción:** Esta vulnerabilidad indica que el servidor SSH está configurado para admitir cifrados en modo CBC (Cipher Block Chaining), que pueden ser vulnerables a ataques de cifrado en bloque.
 
@@ -683,9 +680,9 @@ CVSS más alto obtenido: **10**
 
 ##### SSH Weak Key Exchange Algorithms Enabled
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Low      | 3.7    | -      | 153953 |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Low      | 3.7    | 153953 |
 
 **Descripción:** Esta vulnerabilidad indica que el servidor SSH está configurado para admitir algoritmos de intercambio de claves débiles, lo que puede comprometer la seguridad de la comunicación SSH.
 
@@ -695,13 +692,14 @@ CVSS más alto obtenido: **10**
 
 ##### SSH Weak MAC Algorithms Enabled
 
-| Gravedad | CVSSv3 | CVSSv2 | ID     |
-|----------|--------|--------|--------|
-| Low      | 2.6*   | -      | 71049  |
+| Gravedad | CVSSv3 | ID     |
+|----------|--------|--------|
+| Low      | 2.6*   | 71049  |
 
 **Descripción:** Esta vulnerabilidad indica que el servidor SSH está configurado para admitir algoritmos de código de autenticación de mensajes (MAC) débiles, lo que puede comprometer la integridad de la comunicación SSH.
 
 **Solución:** Deshabilitar los algoritmos de MAC débiles y utilizar algoritmos más seguros, como HMAC-SHA256 o HMAC-SHA512.
+
 
 ## Conclusiones y Recomendaciones
 
