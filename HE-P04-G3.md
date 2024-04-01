@@ -78,15 +78,15 @@ Aquí se encontrará un pequeño desglose en forma de tabla por vulnerabilidad d
 Y dos secciones asociadas que proporcionarán una **breve descripción** y **posible solución** a esa vulnerabilidad concreta.
 
 
-### Servidor 1 - Windows
+## Servidor 1 - Windows
 
 **Resumen gráfico de vulnerabilidades encontradas**
 
 ![(graficoGeneralWindows](/img/graficoGeneralWindows.png)
 
-#### Nivel Crítico
+### Nivel Crítico
 
-##### Apache Tomcat AJP Connector Request Injection (Ghostcat)
+#### Apache Tomcat AJP Connector Request Injection (Ghostcat)
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -98,7 +98,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### Elasticsearch ESA-2015-06
+#### Elasticsearch ESA-2015-06
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -110,7 +110,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### Elasticsearch Transport Protocol Unspecified Remote Code Execution
+#### Elasticsearch Transport Protocol Unspecified Remote Code Execution
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -122,7 +122,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### ManageEngine Desktop Central < 10 Build 10.0.533 Integer Overflow
+#### ManageEngine Desktop Central < 10 Build 10.0.533 Integer Overflow
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -134,7 +134,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### Microsoft RDP RCE (CVE-2019-0708) (BlueKeep) (uncredentialed check)
+#### Microsoft RDP RCE (CVE-2019-0708) (BlueKeep) (uncredentialed check)
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -146,7 +146,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### Unsupported Windows OS (remote)
+#### Unsupported Windows OS (remote)
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -158,7 +158,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### MS11-030: Vulnerability in DNS Resolution Could Allow Remote Code Execution (2509553) (remote check)
+#### MS11-030: Vulnerability in DNS Resolution Could Allow Remote Code Execution (2509553) (remote check)
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -170,7 +170,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### ManageEngine Desktop Central 8 / 9 < Build 91100 Multiple RCE
+#### ManageEngine Desktop Central 8 / 9 < Build 91100 Multiple RCE
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -180,9 +180,9 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 **Solución:** Aplicar el parche de seguridad proporcionado por ManageEngine.
 
-#### Nivel Alto
+### Nivel Alto
 
-##### MS14-066: Vulnerability in Schannel Could Allow Remote Code Execution (2992611) (uncredentialed check)
+#### MS14-066: Vulnerability in Schannel Could Allow Remote Code Execution (2992611) (uncredentialed check)
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -194,7 +194,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### ManageEngine Desktop Central 10 < Build 100282 Remote Privilege Escalation
+#### ManageEngine Desktop Central 10 < Build 100282 Remote Privilege Escalation
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -206,7 +206,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### MS17-010: Security Update for Microsoft Windows SMB Server (4013389) (ETERNALBLUE) (ETERNALCHAMPION) (ETERNALROMANCE) (ETERNALSYNERGY) (WannaCry) (EternalRocks) (Petya) (uncredentialed check)
+#### MS17-010: Security Update for Microsoft Windows SMB Server (4013389) (ETERNALBLUE) (ETERNALCHAMPION) (ETERNALROMANCE) (ETERNALSYNERGY) (WannaCry) (EternalRocks) (Petya) (uncredentialed check)
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -218,7 +218,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### Oracle GlassFish Server Path Traversal
+#### Oracle GlassFish Server Path Traversal
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -230,7 +230,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### Oracle GlassFish Server URL normalization Denial of Service
+#### Oracle GlassFish Server URL normalization Denial of Service
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -242,7 +242,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### SSL Certificate Signed Using Weak Hashing Algorithm
+#### SSL Certificate Signed Using Weak Hashing Algorithm
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -254,7 +254,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### SSL Medium Strength Cipher Suites Supported (SWEET32)
+#### SSL Medium Strength Cipher Suites Supported (SWEET32)
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -266,7 +266,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### MS12-020: Vulnerabilities in Remote Desktop Could Allow Remote Code Execution (2671387) (uncredentialed check)
+#### MS12-020: Vulnerabilities in Remote Desktop Could Allow Remote Code Execution (2671387) (uncredentialed check)
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -276,9 +276,9 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 **Solución:** Aplicar el parche de seguridad proporcionado por Microsoft.
 
-#### Nivel Medio
+### Nivel Medio
 
-##### MS16-047: Security Update for SAM and LSAD Remote Protocols (3148527) (Badlock) (uncredentialed check)
+#### MS16-047: Security Update for SAM and LSAD Remote Protocols (3148527) (Badlock) (uncredentialed check)
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -290,7 +290,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### Remote Desktop Protocol Server Man-in-the-Middle Weakness
+#### Remote Desktop Protocol Server Man-in-the-Middle Weakness
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -302,7 +302,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### SSL Certificate Cannot Be Trusted
+#### SSL Certificate Cannot Be Trusted
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -314,7 +314,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### SSL Self-Signed Certificate
+#### SSL Self-Signed Certificate
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -326,7 +326,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### TLS Version 1.0 Protocol Detection
+#### TLS Version 1.0 Protocol Detection
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -338,7 +338,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### TLS Version 1.1 Protocol Deprecated
+#### TLS Version 1.1 Protocol Deprecated
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -350,7 +350,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### ManageEngine Desktop Central 9 < Build 92027 Multiple Vulnerabilities
+#### ManageEngine Desktop Central 9 < Build 92027 Multiple Vulnerabilities
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -362,7 +362,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+#### SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -374,7 +374,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### SSL Anonymous Cipher Suites Supported
+#### SSL Anonymous Cipher Suites Supported
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -386,7 +386,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### SSL RC4 Cipher Suites Supported (Bar Mitzvah)
+#### SSL RC4 Cipher Suites Supported (Bar Mitzvah)
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -398,7 +398,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### Elasticsearch Unrestricted Access Information Disclosure
+#### Elasticsearch Unrestricted Access Information Disclosure
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -410,7 +410,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### SMB Signing not required
+#### SMB Signing not required
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -422,7 +422,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### SSL Certificate Expiry
+#### SSL Certificate Expiry
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -434,7 +434,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### SSL Certificate with Wrong Hostname
+#### SSL Certificate with Wrong Hostname
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -446,7 +446,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### Terminal Services Doesn't Use Network Level Authentication (NLA) Only
+#### Terminal Services Doesn't Use Network Level Authentication (NLA) Only
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -458,7 +458,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### Elasticsearch 'source' Parameter RCE
+#### Elasticsearch 'source' Parameter RCE
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -470,7 +470,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### Terminal Services Encryption Level is Medium or Low
+#### Terminal Services Encryption Level is Medium or Low
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -481,9 +481,9 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 **Solución:** Configurar el nivel de cifrado de Terminal Services en Alto para utilizar cifrados más seguros.
 
 
-#### Nivel Bajo
+### Nivel Bajo
 
-##### SSL/TLS Diffie-Hellman Modulus <= 1024 Bits (Logjam)
+#### SSL/TLS Diffie-Hellman Modulus <= 1024 Bits (Logjam)
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -495,7 +495,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 - - -
 
-##### Terminal Services Encryption Level is not FIPS-140 Compliant
+#### Terminal Services Encryption Level is not FIPS-140 Compliant
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -506,14 +506,14 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 **Solución:** Configurar el nivel de cifrado de Terminal Services para que cumpla con los estándares FIPS-140.
 
 
-### Servidor 2 - Linux
+## Servidor 2 - Linux
 **Resumen gráfico de vulnerabilidades encontradas**
 
 ![graficoGeneralLinux](/img/graficoGeneralLinux.png)
 
-#### Nivel Crítico
+## Nivel Crítico
 
-##### ProFTPD mod_copy Information Disclosure
+#### ProFTPD mod_copy Information Disclosure
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -525,7 +525,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 - - -
 
-##### Drupal Coder Module Deserialization RCE
+#### Drupal Coder Module Deserialization RCE
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -535,9 +535,9 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 **Solución:** Actualizar a una versión parcheada del módulo Drupal Coder y revisar las configuraciones de seguridad de Drupal para mitigar el riesgo de deserialización no segura.
 
-#### Nivel Alto
+### Nivel Alto
 
-##### SSL Medium Strength Cipher Suites Supported (SWEET32)
+#### SSL Medium Strength Cipher Suites Supported (SWEET32)
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -549,7 +549,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 - - -
 
-##### Drupal Database Abstraction API SQLi
+#### Drupal Database Abstraction API SQLi
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -560,9 +560,9 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 **Solución:** Aplicar el parche de seguridad proporcionado por Drupal para corregir la vulnerabilidad SQLi en la API de Abstracción de Base de Datos.
 
 
-#### Nivel Medio
+### Nivel Medio
 
-##### IP Forwarding Enabled
+#### IP Forwarding Enabled
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -574,7 +574,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### SSL Certificate Cannot Be Trusted
+#### SSL Certificate Cannot Be Trusted
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -586,7 +586,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### SSL Self-Signed Certificate
+#### SSL Self-Signed Certificate
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -598,7 +598,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### TLS Version 1.0 Protocol Detection
+#### TLS Version 1.0 Protocol Detection
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -610,7 +610,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### TLS Version 1.1 Protocol Deprecated
+#### TLS Version 1.1 Protocol Deprecated
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -622,7 +622,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+#### SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -634,7 +634,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 ---
 
-##### Apache Multiviews Arbitrary Directory Listing
+#### Apache Multiviews Arbitrary Directory Listing
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -646,7 +646,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 - - -
 
-##### SMB Signing not required
+#### SMB Signing not required
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -658,7 +658,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 - - -
 
-##### SSH Weak Algorithms Supported
+#### SSH Weak Algorithms Supported
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -669,9 +669,9 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 **Solución:** Deshabilitar los algoritmos de cifrado débiles y utilizar algoritmos de cifrado más seguros y actualizados en la configuración del servidor SSH.
 
 
-#### Nivel Bajo
+### Nivel Bajo
 
-##### SSH Server CBC Mode Ciphers Enabled
+#### SSH Server CBC Mode Ciphers Enabled
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -683,7 +683,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 - - -
 
-##### SSH Weak Key Exchange Algorithms Enabled
+#### SSH Weak Key Exchange Algorithms Enabled
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
@@ -695,7 +695,7 @@ Y dos secciones asociadas que proporcionarán una **breve descripción** y **pos
 
 - - -
 
-##### SSH Weak MAC Algorithms Enabled
+#### SSH Weak MAC Algorithms Enabled
 
 | Gravedad | CVSSv3 | ID     |
 |----------|--------|--------|
