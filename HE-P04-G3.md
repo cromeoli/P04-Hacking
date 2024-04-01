@@ -761,6 +761,9 @@ El cifrado de extremo a extremo es un método de encriptación que protege los d
 - **Autenticación Multifactorial:**
 La autenticación multifactorial es un método de verificación de identidad que requiere múltiples formas de autenticación para conceder acceso a un sistema informático o servicio. Combina dos o más factores de autenticación, como contraseñas, tokens de seguridad, huellas dactilares o reconocimiento facial, para aumentar la seguridad y reducir el riesgo de acceso no autorizado.
 
+- **Plugin en el Contexto de Nessus:**
+En Nessus, un plugin es un componente de software que realiza pruebas automatizadas de seguridad en sistemas informáticos para identificar vulnerabilidades y posibles riesgos de seguridad. Cada plugin está diseñado para detectar una vulnerabilidad específica o realizar una comprobación de seguridad concreta, como escanear puertos, buscar vulnerabilidades de software, verificar configuraciones de seguridad, o detectar intrusiones en redes. Estos plugins permiten a Nessus realizar un análisis exhaustivo de la seguridad de los sistemas y redes, proporcionando informes detallados sobre las debilidades encontradas y recomendaciones para su mitigación. La capacidad de Nessus para utilizar una amplia variedad de plugins lo convierte en una herramienta fundamental para evaluar y mejorar la postura de seguridad de una infraestructura tecnológica.
+
 
 ## Referencias
 
