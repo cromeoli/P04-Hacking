@@ -10,6 +10,21 @@
 
 *1 De Abril de 2024*
 
+## Índice
+
+1. [Resumen Ejecutivo](#resumen-ejecutivo)
+2. [Introducción](#introducción)
+    - [Alcance](#alcance)
+    - [Objetivos](#objetivos)
+3. [Metodología](#metodología)
+    - [Servidor 1 - Windows](#servidor-1---windows)
+    - [Servidor 2 - Linux](#servidor-2---linux)
+4. [Resultados Obtenidos](#resultados-obtenidos)
+5. [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+6. [Glosario de Términos](#glosario-de-términos)
+7. [Referencias](#referencias)
+
+
 ## Resumen Ejecutivo
 
 En este documento se presenta la evaluación básica inicial de dos de los servidores de la empresa contratante _SecureLogistics_ por parte del equipo de seguridad de nuestra empresa _NETMANCER Incorporated_.
@@ -63,10 +78,6 @@ La métrica de evaluación será la proporcionad por CVSS 3.0, _un framework abi
 Podemos encontrar a continuación una lista en detalle de cada una de las vulnerabilidades encontradas para los servidores especificados:
 
 ### Servidor 1 - Windows
-
-
-
-
 
 **Resumen gráfico de vulnerabilidades encontradas**
 
@@ -706,55 +717,53 @@ En base a los resultados obtenidos mediante el escaneo superficial básico de pu
 
 ## Glosario de Términos
 
-### Glosario de Términos Informáticos para Ejecutivos
+- **Puerto:**
+Un puerto es un punto de conexión en un dispositivo informático que permite la comunicación entre diferentes programas o dispositivos. Es como una puerta de entrada o salida que facilita el intercambio de datos entre el dispositivo y su entorno. En un ordenador existen los puertos del 0 al 65535.
 
-**Puerto:**
-Un puerto es un punto de conexión en un dispositivo informático que permite la comunicación entre diferentes programas o dispositivos. Es como una puerta de entrada o salida que facilita el intercambio de datos entre el dispositivo y su entorno.
-
-**MAC (Dirección MAC):**
+- **MAC (Dirección MAC):**
 La Dirección MAC (Media Access Control) es un identificador único asignado a una interfaz de red de un dispositivo. Funciona como una "huella digital" para dispositivos conectados a una red, permitiendo la identificación precisa de cada uno de ellos.
 
-**Protocolo:**
+- **Protocolo:**
 Un protocolo es un conjunto de reglas y convenciones que determinan cómo se comunican entre sí los dispositivos y sistemas informáticos en una red. Define el formato, la secuencia y las acciones a tomar durante la transmisión de datos para asegurar una comunicación efectiva y confiable.
 
-**Vulnerabilidad:**
+- **Vulnerabilidad:**
 Una vulnerabilidad es una debilidad o fallo en un sistema informático que puede ser explotado por un atacante para comprometer la seguridad y el funcionamiento del sistema. Las vulnerabilidades pueden surgir debido a errores de diseño, configuración incorrecta o falta de actualizaciones de software, entre otras causas.
 
-**Exploit:**
+- **Exploit:**
 Un exploit es un programa o técnica diseñada para aprovechar una vulnerabilidad específica en un sistema informático. Se utiliza para comprometer la seguridad del sistema, ejecutar código malicioso o realizar acciones no autorizadas, lo que puede provocar daños o comprometer la integridad de los datos.
 
-**Autenticación de Mensajes:**
+- **Autenticación de Mensajes:**
 La autenticación de mensajes es un proceso que verifica la integridad y la autenticidad de los datos transmitidos entre sistemas o dispositivos. Se utiliza para garantizar que los mensajes no hayan sido alterados o manipulados durante la transmisión y que provengan de una fuente confiable.
 
-**Algoritmo de Encriptación:**
+- **Algoritmo de Encriptación:**
 Un algoritmo de encriptación es un conjunto de reglas matemáticas y operaciones que se utilizan para codificar datos de forma que solo puedan ser decodificados por aquellos que tengan la clave de desencriptación adecuada. Se emplea para proteger la confidencialidad y la seguridad de la información en las comunicaciones electrónicas.
 
-**Funciones Hash Criptográficas:**
+- **Funciones Hash Criptográficas:**
 Las funciones hash criptográficas son algoritmos matemáticos que transforman datos de entrada en una cadena de caracteres de longitud fija. Estas funciones se utilizan en seguridad informática para verificar la integridad de los datos y generar resúmenes únicos para identificar los archivos o mensajes.
 
-**HMAC-SHA256:**
+- **HMAC-SHA256:**
 HMAC-SHA256 es un algoritmo de autenticación de mensajes basado en funciones hash criptográficas. Se utiliza para garantizar la integridad y autenticidad de los datos transmitidos a través de una red, proporcionando una capa adicional de seguridad contra la manipulación o falsificación de datos.
 
-**HMAC-SHA512:**
+- **HMAC-SHA512:**
 HMAC-SHA512 es similar a HMAC-SHA256, pero utiliza una longitud de hash más larga para mayor seguridad. Proporciona una autenticación robusta y una protección adicional contra ataques de fuerza bruta y manipulación de datos.
 
-**SSH (Secure Shell):**
+- **SSH (Secure Shell):**
 Secure Shell (SSH) es un protocolo de red que permite a los usuarios acceder de forma segura a un dispositivo remoto a través de una conexión cifrada. Se utiliza comúnmente para administrar servidores y realizar tareas de mantenimiento en sistemas informáticos de forma remota, proporcionando una capa adicional de seguridad mediante la encriptación de datos durante la transmisión.
 
-**Fuerza Bruta:**
+- **Fuerza Bruta:**
 La fuerza bruta es un método utilizado en ciberseguridad para descifrar contraseñas o claves de forma sistemática y exhaustiva, probando todas las combinaciones posibles hasta encontrar la correcta. Es un enfoque intensivo en recursos que puede ser efectivo pero requiere tiempo y poder computacional.
 
-**Firewall:**
+- **Firewall:**
 Un firewall es un dispositivo o software diseñado para controlar y filtrar el tráfico de red entrante y saliente en función de un conjunto de reglas de seguridad predefinidas. Se utiliza para proteger los sistemas informáticos contra amenazas externas y evitar accesos no autorizados o actividades maliciosas.
 
-**Inyección de Código:**
+- **Inyección de Código:**
 La inyección de código es una técnica utilizada por los atacantes para insertar y ejecutar código malicioso en una aplicación o sistema informático. Puede aprovechar vulnerabilidades en el software o la falta de validación de datos para manipular el comportamiento del programa y comprometer la seguridad del sistema.
 
-**Cifrado de Extremo a Extremo:**
+- **Cifrado de Extremo a Extremo:**
 El cifrado de extremo a extremo es un método de encriptación que protege los datos durante su transmisión desde el remitente hasta el destinatario, impidiendo que terceros intercepten o accedan a la información. Se utiliza comúnmente en servicios de mensajería y comunicaciones electrónicas para garantizar la privacidad y la confidencialidad de los mensajes.
 
 
-**Autenticación Multifactorial:**
+- **Autenticación Multifactorial:**
 La autenticación multifactorial es un método de verificación de identidad que requiere múltiples formas de autenticación para conceder acceso a un sistema informático o servicio. Combina dos o más factores de autenticación, como contraseñas, tokens de seguridad, huellas dactilares o reconocimiento facial, para aumentar la seguridad y reducir el riesgo de acceso no autorizado.
 
 
