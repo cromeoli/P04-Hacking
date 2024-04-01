@@ -781,3 +781,7 @@ Tenable®. (2024). Nessus Plugin Families. Recuperado el 1 de abril de 2024, de 
 - **Sergio Guerrero Merlo**
 - **Juan Manuel Cumbrera López**
 - **Christian Romero Oliva**
+
+*Hacking Ético - Curso de Especialización de Ciberseguridad en las TI*
+
+*IES Rafael Alberti*
