@@ -36,7 +36,9 @@ En el presente informe se detalla más información sobre los resultados obtenid
 
 ## Introducción
 
-### Antecedentes
+Para este informe se nos solicitaba un análisis básico de dos servidores de la infraestructura de _SecureLogistics_. El motivo presentado fue la sospecha de posibles problemas de seguridad y el acotamiento de las mismas, para garantizar que se optimiza al máximo la inversión en seguridad necesaria para la empresa.
+
+Es por ello que se decide realizar un escáner básico inicial para detectar las vulnerabilidades más 
 
 ...
 
