@@ -27,13 +27,13 @@ A continuación se presenta un gráfico resumen con vulnerabilidades encontradas
 
 **Servidor 1 con sistema operativo Windows:**
 
-![graficoGeneralWindows](image-2.png)
+![graficoGeneralLinuxWindows](/img/graficoGeneralWindows.png)
 
 - Puntuación CVSS más alta: **10**
 
 **Servidor 2 con sistema operativo Linux:**
 
-![graficoGeneralLinux](image-1.png)
+![graficoGeneralLinux](/img/graficoGeneralLinux.png)
 
 - Puntuación CVSS más alta: **10**
 
@@ -55,7 +55,7 @@ El alcance del mismo se limitará a un escaneo de tipo _**caja negra**_, que con
 
 ### Objetivos
 
-El principal objetivo de este informe es determinar mediante herramientas de escaneo básico si existen vulnerabilidades en alguna de las dos máquinas especificadas de inspección por _SecureLogistics_.
+El principal objetivo de este informe es determinar mediante herramientas de escaneo básico si existen vulnerabilidades en alguna de las dos máquinas especificadas por _SecureLogistics_.
 
 ## Metodología
 
@@ -63,17 +63,26 @@ Para realizar los escaneos se hará uso de la herramienta análisis de vulnerabi
 
 Esta herramienta realizará un test automático en los puertos vulnerables más comunes y realizará pruebas automatizadas de penetración basadas en las vulnerabilidades y brechas de seguridad más habituales registradas en su base de datos. Tras realizar el test, la misma herramienta generará un reporte que será utilizado para realizar un desglose de las posibles vulnerabilidades encontradas, las cuáles serán examinadas, descritas y evaluadas.
 
-La métrica de evaluación será la proporcionad por CVSS 3.0, _un framework abierto y universalmente utilizado que establece unas métricas para la comunicación de las características, impacto y severidad de vulnerabilidades que afectan a elementos del entorno de seguridad IT_ (INCIBE, 2023)
+La métrica de evaluación será la proporcionad por CVSS 3.0, _un framework abierto y universalmente utilizado que establece unas métricas para la comunicación de las características, impacto y severidad de vulnerabilidades que afectan a elementos del entorno de seguridad IT_ (Definición de INCIBE, 2023)
 
 ## Resultados Obtenidos
 
-Podemos encontrar a continuación una lista en detalle de cada una de las vulnerabilidades encontradas para los servidores especificados:
+Podemos encontrar a continuación una lista en detalle de cada una de las vulnerabilidades encontradas para los servidores especificados.
+
+Aquí se encontrará un pequeño desglose en forma de tabla por vulnerabilidad donde:
+
+- _Gravedad_: indica el nivel de riesgo que implica que la vulnerabilidad esté presente
+- _CVSSv3_: Es la puntuación dada según el framework CVSS versión 3.
+- ID: Es el id del plugin de la herramienta _Nessus Tenable_ que ha sido usado para testear la vulnerabilidad. (Tenable®, 2024)
+
+Y dos secciones asociadas que proporcionarán una breve descripción y posible solución a esa vulnerabilidad concreta.
+
 
 ### Servidor 1 - Windows
 
 **Resumen gráfico de vulnerabilidades encontradas**
 
-![graficoGeneralWindows](image-2.png)
+![(graficoGeneralWindows](/img/graficoGeneralWindows.png)
 
 CVSS más alto obtenido: **10**
 
@@ -502,7 +511,7 @@ CVSS más alto obtenido: **10**
 ### Servidor 2 - Linux
 **Resumen gráfico de vulnerabilidades encontradas**
 
-![graficoGeneralLinux](image-1.png)
+![graficoGeneralLinux](/img/graficoGeneralLinux.png)
 
 CVSS más alto obtenido: **10**
 
@@ -761,6 +770,8 @@ La autenticación multifactorial es un método de verificación de identidad que
 
 Antonio López INCIBE. (2023). CVSS v3.0. 
 Recuperado el 1 de Abril 2024, de https://www.incibe.es/incibe-cert/blog/cvss3-0
+
+Tenable®. (2024). Nessus Plugin Families. Recuperado el 1 de abril de 2024, de https://www.tenable.com/plugins/nessus/families
 
 ## Grupo 3
 
