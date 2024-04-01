@@ -75,7 +75,7 @@ Aquí se encontrará un pequeño desglose en forma de tabla por vulnerabilidad d
 - _CVSSv3_: Es la puntuación dada según el framework CVSS versión 3.
 - ID: Es el id del plugin de la herramienta _Nessus Tenable_ que ha sido usado para testear la vulnerabilidad. (Tenable®, 2024)
 
-Y dos secciones asociadas que proporcionarán una breve descripción y posible solución a esa vulnerabilidad concreta.
+Y dos secciones asociadas que proporcionarán una **breve descripción** y **posible solución** a esa vulnerabilidad concreta.
 
 
 ### Servidor 1 - Windows
@@ -83,8 +83,6 @@ Y dos secciones asociadas que proporcionarán una breve descripción y posible s
 **Resumen gráfico de vulnerabilidades encontradas**
 
 ![(graficoGeneralWindows](/img/graficoGeneralWindows.png)
-
-CVSS más alto obtenido: **10**
 
 #### Nivel Crítico
 
@@ -512,8 +510,6 @@ CVSS más alto obtenido: **10**
 **Resumen gráfico de vulnerabilidades encontradas**
 
 ![graficoGeneralLinux](/img/graficoGeneralLinux.png)
-
-CVSS más alto obtenido: **10**
 
 #### Nivel Crítico
 
