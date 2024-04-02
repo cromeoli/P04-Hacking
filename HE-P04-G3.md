@@ -25,13 +25,13 @@ El objetivo principal de este análisis ha sido comprobar si existen motivos par
 
 A continuación se presenta un gráfico resumen con vulnerabilidades encontradas en las máquinas clasificadas por severidad:
 
-**Servidor 1 con sistema operativo Windows:**
+**Servidor 1 con sistema operativo Linux:**
 
 ![graficoGeneralLinuxWindows](/img/graficoGeneralWindows.png)
 
 - Puntuación CVSS más alta: **10**
 
-**Servidor 2 con sistema operativo Linux:**
+**Servidor 2 con sistema operativo Windows:**
 
 ![graficoGeneralLinux](/img/graficoGeneralLinux.png)
 
