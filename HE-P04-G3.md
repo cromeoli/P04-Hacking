@@ -27,13 +27,13 @@ A continuación se presenta un gráfico resumen con vulnerabilidades encontradas
 
 **Servidor 1 con sistema operativo Windows:**
 
-![graficoGeneralLinux](/img/graficoGeneralLinux.png)
+![graficoGeneralLinuxWindows](/img/graficoGeneralWindows.png)
 
 - Puntuación CVSS más alta: **10**
 
 **Servidor 2 con sistema operativo Linux:**
 
-![graficoGeneralLinuxWindows](/img/graficoGeneralWindows.png)
+![graficoGeneralLinux](/img/graficoGeneralLinux.png)
 
 - Puntuación CVSS más alta: **10**
 
