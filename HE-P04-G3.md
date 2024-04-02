@@ -9,12 +9,12 @@
     - [Alcance](#alcance)
     - [Objetivos](#objetivos)
 3. [Metodología](#metodología)
+4. [Resultados Obtenidos](#resultados-obtenidos)
     - [Servidor 1 - Windows](#servidor-1---windows)
     - [Servidor 2 - Linux](#servidor-2---linux)
-4. [Resultados Obtenidos](#resultados-obtenidos)
-5. [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
-6. [Glosario de Términos](#glosario-de-términos)
-7. [Referencias](#referencias)
+6. [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+7. [Glosario de Términos](#glosario-de-términos)
+8. [Referencias](#referencias)
 
 
 ## Resumen Ejecutivo
